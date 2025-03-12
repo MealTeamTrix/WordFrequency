@@ -1,9 +1,7 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+This is the "Word Frequency in Moby Dick" project in Datacamp.
 
 ## Description
-Optional section to provide a more detailed overview of the project.
+The overall objective of this project is to identify the most frequent words in Herman Melville's novel Moby Dick.
 
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
 
